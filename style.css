@@ -1,0 +1,79 @@
+*{
+    padding:0;
+    margin: 0;
+}
+/* The * is a global selector. It allows us to select all the elements  */
+.hero{
+    background-color: black;
+    height: 39.5rem;
+    display: flex;
+  
+}
+.hero img{
+    width: 250px;
+    height:260px;
+    border-radius: 100%;
+    border: 4px solid yellow;
+   
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    background-color: yellow;
+    font-family: 'Dosis', sans-serif;
+}
+.navbar ul{
+    display: flex;  
+}
+.logo li a{
+    font-family: 'Roboto', sans-serif;
+    font-size:40px;
+    padding: 20px;
+}
+.navbar ul li{
+    padding: 20px;
+    list-style: none;
+    font-size: 1.5rem;
+    
+}
+.navbar ul li a{
+    color:black;
+    text-decoration: none;
+}
+.navss{
+    padding-right: 20rem;
+}
+.profile-img{
+    padding-top: 10rem;
+    padding-left: 10rem;
+    
+}
+.hero-text {
+    color: white;
+    padding-top: 12rem;
+    padding-left: 2rem;
+    width: 50%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.hero-text h2{
+    font-size: 40px;
+    margin-bottom: 10px;
+    color:yellow;
+}
+.hero-text p{
+    line-height: 1.5rem;
+    font-size: 20px;
+    font-family: 'Dosis', sans-serif;
+    margin-bottom: 40px;
+}
+.hero-text a{
+    text-decoration: none;
+    color:white;
+    background-color: red;
+    padding-top: 10px;
+    padding-right: 50px;
+    padding-left: 50px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    
+}

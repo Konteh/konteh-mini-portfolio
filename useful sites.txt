@@ -1,0 +1,11 @@
+*USE THIS SITES TO UNDERSTAND MORE ON THE LESSON*
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+https://www.w3schools.com/tags/tag_div.ASP
+
+*SOME TAGS WE USED*
+1. div
+2. img
+3. ul
+4. li
+5. a
+6. class selector
